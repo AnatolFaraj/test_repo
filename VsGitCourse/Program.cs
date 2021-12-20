@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace VsGitCourse
 {
@@ -6,14 +7,17 @@ namespace VsGitCourse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!");
-
-            Console.WriteLine("not hi anyone, you suck");
-
            
+
+            Console.WriteLine(Multiply(10, 20));
 
             
 
+        }
+
+        public static string Multiply<T>(T a, T b)
+        {
+            return $"a = {a}\tb = {b}";
         }
     }
 }
