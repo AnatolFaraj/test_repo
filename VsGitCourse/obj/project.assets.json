@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\csharp\\vsgit\\VsGitCourse\\VsGitCourse\\VsGitCourse.csproj",
+      "projectUniqueName": "G:\\csharp\\testrep2\\VsGitCourse\\VsGitCourse.csproj",
       "projectName": "VsGitCourse",
-      "projectPath": "G:\\csharp\\vsgit\\VsGitCourse\\VsGitCourse\\VsGitCourse.csproj",
+      "projectPath": "G:\\csharp\\testrep2\\VsGitCourse\\VsGitCourse.csproj",
       "packagesPath": "C:\\Users\\Tolyakipyatok\\.nuget\\packages\\",
-      "outputPath": "G:\\csharp\\vsgit\\VsGitCourse\\VsGitCourse\\obj\\",
+      "outputPath": "G:\\csharp\\testrep2\\VsGitCourse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tolyakipyatok\\AppData\\Roaming\\NuGet\\NuGet.Config",

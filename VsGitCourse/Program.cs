@@ -10,6 +10,8 @@ namespace VsGitCourse
 
             Console.WriteLine("not hi anyone, you suck");
 
+            Console.WriteLine("new commit goes here!");
+
             
 
         }
